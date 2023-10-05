@@ -1,2 +1,0 @@
-# Competitive-Programming
-DSA Solutions 
