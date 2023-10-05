@@ -37,9 +37,3 @@ int main() {
    
     return 0;
 }      
-
-    /*
-    
-        With Great Power comes great responsibility
-       
-                                                          */
